@@ -13,3 +13,6 @@ In the contact section, I also have the email address and would eventually add l
 
 
 Note: Tried very hard to use the card, flex box and even tried the 3 column layout. I always have my eye on design so if things don't lay properly it sets me back quite a bit timewise. At some point, I feel like I just run out of time.
+
+
+https://mmorvan81.github.io/talbot%20drake%20inc/
