@@ -1,4 +1,5 @@
 Updated Project One 
 
-Added more content and worked on online. Would like to expand it further to go into each category.
+Continued to refine and add more content. 
 
+https://mmorvan81.github.io/git-init-portfolio/
